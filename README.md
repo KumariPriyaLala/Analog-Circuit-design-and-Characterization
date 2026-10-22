@@ -1,4 +1,4 @@
-[github_readme.md](https://github.com/user-attachments/files/33828092/github_readme.md)
+
 # Multi-Stage Analog Signal Conditioning Unit & Op-Amp Characterization
 
 A comprehensive analog circuit design, simulation, and analysis project covering multi-stage BJT amplifiers, discrete MOSFET differential amplifiers, Op-Amp closed-loop topologies, and high-CMRR instrumentation amplifier architectures.
