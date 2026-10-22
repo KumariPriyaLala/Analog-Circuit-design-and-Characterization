@@ -1,4 +1,6 @@
-
+![Multisim](https://img.shields.io/badge/NI%20Multisim-003366?style=for-the-badge&logo=National-Instruments&logoColor=white)
+![SPICE](https://img.shields.io/badge/SPICE-Simulation-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 # Multi-Stage Analog Signal Conditioning Unit & Op-Amp Characterization
 
 A comprehensive analog circuit design, simulation, and analysis project covering multi-stage BJT amplifiers, discrete MOSFET differential amplifiers, Op-Amp closed-loop topologies, and high-CMRR instrumentation amplifier architectures.
